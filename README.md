@@ -1,4 +1,4 @@
-# ai-product-management-chatbot
+# AI-product-management-chatbot
 **Overview**
 Artificial Intelligence (AI) is transforming industries by enabling machines to simulate human intelligence. 
 
