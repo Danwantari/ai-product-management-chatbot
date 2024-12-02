@@ -35,3 +35,6 @@ Artificial Intelligence (AI) is transforming industries by enabling machines to 
 **🎨 Customizable UI**
 
 - Modify styles easily using the provided CSS file to fit your brand or theme.
+
+  ![chat bot imge ](https://github.com/user-attachments/assets/cab6fa08-e80e-438e-8d79-8b2ffae579e1)
+
